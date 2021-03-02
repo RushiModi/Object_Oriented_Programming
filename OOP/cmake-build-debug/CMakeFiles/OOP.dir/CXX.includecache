@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rushimodi/CLionProjects/OOP/Address.h
+
+/Users/rushimodi/CLionProjects/OOP/Person.h
+
+/Users/rushimodi/CLionProjects/OOP/main.cpp
+iostream
+-
+Address.h
+/Users/rushimodi/CLionProjects/OOP/Address.h
+Person.h
+/Users/rushimodi/CLionProjects/OOP/Person.h
+
